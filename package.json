@@ -1,0 +1,21 @@
+{
+  "name": "kotrak-wheather-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server/bin/www --ignore database.json",
+    "build": "cd client && ng build --prod --aot"
+  },
+  "author": "Bohdan Zborovskyi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "lowdb": "^1.0.0",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "shortid": "^2.2.8",
+    "yahoo-weather": "^2.2.2"
+  }
+}

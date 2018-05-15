@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "HJZ7cUmTM",
+      "name": "John",
+      "sur_name": "Smith",
+      "city": "New York",
+      "country": "USA",
+      "gender": "Męska"
+    },
+    {
+      "id": "S1gZm9U76f",
+      "name": "Anna",
+      "sur_name": "Smith",
+      "city": "Los Angeles",
+      "country": "USA",
+      "gender": "Żeńska"
+    }
+  ]
+}
